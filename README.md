@@ -33,7 +33,7 @@
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="openssf/horizontal/black/cdf-horizontal-black.png" width="200"></td>
+        <td><img src="openssf/horizontal/black/openssf-horizontal-black.png" width="200"></td>
         <td><img src="openssf/stacked/black/openssf-stacked-black.png" width="95"></td>
         <td><img src="openssf/icon/black/openssf-icon-black.png" width="75"></td>
         <td><img src="openssf/horizontal/black/openssf-horizontal-black.svg" width="200"></td>
