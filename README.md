@@ -24,30 +24,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/openssf/horizontal/color/openssf-horizontal-color.png" width="200"></td>
-        <td><img src="/openssf/stacked/color/openssf-stacked-color.png" width="95"></td>
-        <td><img src="/openssf/icon/color/openssf-icon-color.png" width="75"></td>
-        <td><img src="/openssf/horizontal/color/openssf-horizontal-color.svg" width="200"></td>
-        <td><img src="/openssf/stacked/color/openssf-stacked-color.svg" width="95"></td>
-        <td><img src="/openssf/icon/color/openssf-icon-color.svg" width="75"></td>
+        <td><img src="openssf/horizontal/color/openssf-horizontal-color.png" width="200"></td>
+        <td><img src="openssf/stacked/color/openssf-stacked-color.png" width="95"></td>
+        <td><img src="openssf/icon/color/openssf-icon-color.png" width="75"></td>
+        <td><img src="openssf/horizontal/color/openssf-horizontal-color.svg" width="200"></td>
+        <td><img src="openssf/stacked/color/openssf-stacked-color.svg" width="95"></td>
+        <td><img src="openssf/icon/color/openssf-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/openssf/horizontal/black/cdf-horizontal-black.png" width="200"></td>
-        <td><img src="/openssf/stacked/black/openssf-stacked-black.png" width="95"></td>
-        <td><img src="/openssf/icon/black/openssf-icon-black.png" width="75"></td>
-        <td><img src="/openssf/horizontal/black/openssf-horizontal-black.svg" width="200"></td>
-        <td><img src="/openssf/stacked/black/openssf-stacked-black.svg" width="95"></td>
-        <td><img src="/openssf/icon/black/openssf-icon-black.svg" width="75"></td>
+        <td><img src="openssf/horizontal/black/cdf-horizontal-black.png" width="200"></td>
+        <td><img src="openssf/stacked/black/openssf-stacked-black.png" width="95"></td>
+        <td><img src="openssf/icon/black/openssf-icon-black.png" width="75"></td>
+        <td><img src="openssf/horizontal/black/openssf-horizontal-black.svg" width="200"></td>
+        <td><img src="openssf/stacked/black/openssf-stacked-black.svg" width="95"></td>
+        <td><img src="openssf/icon/black/openssf-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/openssf/horizontal/white/openssf-horizontal-white.png" width="200"></td>
-        <td><img src="/openssf/stacked/white/openssf-stacked-white.png" width="95"></td>
-        <td><img src="/openssf/icon/white/openssf-icon-white.png" width="75"></td>
-        <td><img src="/openssf/horizontal/white/openssf-horizontal-white.svg" width="200"></td>
-        <td><img src="/openssf/stacked/white/openssf-stacked-white.svg" width="95"></td>
-        <td><img src="/openssf/icon/white/openssf-icon-white.svg" width="75"></td>
+        <td><img src="openssf/horizontal/white/openssf-horizontal-white.png" width="200"></td>
+        <td><img src="openssf/stacked/white/openssf-stacked-white.png" width="95"></td>
+        <td><img src="openssf/icon/white/openssf-icon-white.png" width="75"></td>
+        <td><img src="openssf/horizontal/white/openssf-horizontal-white.svg" width="200"></td>
+        <td><img src="openssf/stacked/white/openssf-stacked-white.svg" width="95"></td>
+        <td><img src="openssf/icon/white/openssf-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
