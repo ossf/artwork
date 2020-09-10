@@ -54,4 +54,4 @@
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
-Questions? Please email [info@cd.foundation](mailto:info@cd.foundation).
+Questions? Please email [operations@openssf.org](mailto:operations@openssf.org).
