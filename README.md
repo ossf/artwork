@@ -8,7 +8,7 @@ You can find t-shirts, hoodies and stickers and plushies at <https://store.opens
 
 #### OpenSSF Logos
 
-Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.
+_Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables._
 
 <table>
     <tr>
