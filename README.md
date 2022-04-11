@@ -1,6 +1,10 @@
 ## OpenSSF Artwork and Logos
 
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
+In this repo, we have artwork in standard formats for the OpenSSF projects and programs. We prepare artwork in 2 formats (PNG & SVG), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and at least 3 versions (color/black/white).
+
+With many browsers, you can right click and copy the logo of your choice below. Please note that although PNG is more common, SVG file sizes are smaller, supported in all modern web browsers, and a high-resolution format suitable for both print and high-resolution computer screens.
+
+You can find t-shirts, hoodies and stickers and plushies at <https://store.openssf.org>. 
 
 #### OpenSSF Logos
 
@@ -51,7 +55,19 @@
     </tr>
 </table>
 
+#### OpenSSF Brand Colors
+Blue:
+- Dark: 0c3455
+- Medium: 6897b8
+- Light: a2c9d2
+- ExtraLight: d2e5ea
+
+Yellow: 
+- Dark: f9c37a
+- Medium: fde6ad
+- Light: fde6ad
+- ExtraLight: fff4d0
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
-Questions? Please email [info@cd.foundation](mailto:info@cd.foundation).
+Questions? Please email [operations@openssf.org](mailto:operations@openssf.org).
