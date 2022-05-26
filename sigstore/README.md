@@ -24,30 +24,30 @@ _Note: The logos in this repo are the current brand marks for the project. Pleas
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="sigstore/horizontal/color/Sigstore-logo_horizontal-color.png" width="200"></td>
-        <td><img src="sigstore/stacked/color/Sigstore-logo_stacked-color.png" width="95"></td>
-        <td><img src="sigstore/icon/color/Sigstore-logo_icon-color.png" width="75"></td>
-        <td><img src="sigstore/horizontal/color/Sigstore-logo_horizontal-color.svg" width="200"></td>
-        <td><img src="sigstore/stacked/color/Sigstore-logo_stacked-color.svg" width="95"></td>
-        <td><img src="sigstore/icon/color/Sigstore-logo_icon-color.svg" width="75"></td>
+        <td><img src="/horizontal/color/Sigstore-logo_horizontal-color.png" width="200"></td>
+        <td><img src="/stacked/color/Sigstore-logo_stacked-color.png" width="95"></td>
+        <td><img src="/icon/color/Sigstore-logo_icon-color.png" width="75"></td>
+        <td><img src="/horizontal/color/Sigstore-logo_horizontal-color.svg" width="200"></td>
+        <td><img src="/stacked/color/Sigstore-logo_stacked-color.svg" width="95"></td>
+        <td><img src="/icon/color/Sigstore-logo_icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="sigstore/horizontal/black/Sigstore-logo_horizontal-black.png" width="200"></td>
-        <td><img src="sigstore/stacked/black/Sigstore-logo_stacked-black.png" width="95"></td>
-        <td><img src="sigstore/icon/black/Sigstore-logo_icon-black.png" width="75"></td>
-        <td><img src="sigstore/horizontal/black/Sigstore-logo_horizontal-black.svg" width="200"></td>
-        <td><img src="sigstore/stacked/black/Sigstore-logo_stacked-black.svg" width="95"></td>
-        <td><img src="sigstore/icon/black/Sigstore-logo_icon-black.svg" width="75"></td>
+        <td><img src="/horizontal/black/Sigstore-logo_horizontal-black.png" width="200"></td>
+        <td><img src="/stacked/black/Sigstore-logo_stacked-black.png" width="95"></td>
+        <td><img src="/icon/black/Sigstore-logo_icon-black.png" width="75"></td>
+        <td><img src="/horizontal/black/Sigstore-logo_horizontal-black.svg" width="200"></td>
+        <td><img src="/stacked/black/Sigstore-logo_stacked-black.svg" width="95"></td>
+        <td><img src="/icon/black/Sigstore-logo_icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="sigstore/horizontal/white/Sigstore-logo_horizontal-white.png" width="200"></td>
-        <td><img src="sigstore/stacked/white/Sigstore-logo_stacked-white.png" width="95"></td>
-        <td><img src="sigstore/icon/white/Sigstore-logo_icon-white.png" width="75"></td>
-        <td><img src="sigstore/horizontal/white/Sigstore-logo_horizontal-white.svg" width="200"></td>
-        <td><img src="sigstore/stacked/white/Sigstore-logo_stacked-white.svg" width="95"></td>
-        <td><img src="sigstore/icon/white/Sigstore-logo_icon-white.svg" width="75"></td>
+        <td><img src="/horizontal/white/Sigstore-logo_horizontal-white.png" width="200"></td>
+        <td><img src="/stacked/white/Sigstore-logo_stacked-white.png" width="95"></td>
+        <td><img src="/icon/white/Sigstore-logo_icon-white.png" width="75"></td>
+        <td><img src="/horizontal/white/Sigstore-logo_horizontal-white.svg" width="200"></td>
+        <td><img src="/stacked/white/Sigstore-logo_stacked-white.svg" width="95"></td>
+        <td><img src="/icon/white/Sigstore-logo_icon-white.svg" width="75"></td>
     </tr>
 </table>
 
