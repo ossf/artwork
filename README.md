@@ -70,6 +70,23 @@ Yellow:
 - Light: fde6ad
 - ExtraLight: fff4d0
 
+#### OpenSSF Technical Initiative Stage Badges
+
+<table>
+    <tr>
+        <th style="width:25%">Sandbox</th>
+        <th style="width:25%">Incubating</th>
+        <th style="width:25%">Graduated</th>
+        <th style="width:25%">Archived</th>
+    </tr>
+    <tr>
+        <td><img src="openssf/badges/OpenSSF_StagesBadges_sandbox.png"></td>
+        <td><img src="openssf/badges/OpenSSF_StagesBadges_incubating.png"></td>
+        <td><img src="openssf/badges/OpenSSF_StagesBadges_graduated.png"></td>
+        <td><img src="openssf/badges/OpenSSF_StagesBadges_archived.png"></td>
+    </tr>
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [operations@openssf.org](mailto:operations@openssf.org).
