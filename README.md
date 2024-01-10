@@ -87,7 +87,6 @@ Yellow:
     </tr>
 </table>
 
-=======
 #### Slide Deck Templates
 - [2024 Slide Deck](https://docs.google.com/presentation/d/1DPBL7QuAQVs980D-IeCs76V4FzUejF-fCaF0lGd9oPY)
 
