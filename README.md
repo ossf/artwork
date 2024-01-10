@@ -70,6 +70,24 @@ Yellow:
 - Light: fde6ad
 - ExtraLight: fff4d0
 
+#### OpenSSF Technical Initiative Stage Badges
+
+<table>
+    <tr>
+        <th style="width:25%">Sandbox</th>
+        <th style="width:25%">Incubating</th>
+        <th style="width:25%">Graduated</th>
+        <th style="width:25%">Archived</th>
+    </tr>
+    <tr>
+        <td><img src="openssf/badges/OpenSSF_StagesBadges_sandbox.png"></td>
+        <td><img src="openssf/badges/OpenSSF_StagesBadges_incubating.png"></td>
+        <td><img src="openssf/badges/OpenSSF_StagesBadges_graduated.png"></td>
+        <td><img src="openssf/badges/OpenSSF_StagesBadges_archived.png"></td>
+    </tr>
+</table>
+
+=======
 #### Slide Deck Templates
 - [2024 Slide Deck](https://docs.google.com/presentation/d/1DPBL7QuAQVs980D-IeCs76V4FzUejF-fCaF0lGd9oPY)
 
