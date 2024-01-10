@@ -70,6 +70,8 @@ Yellow:
 - Light: fde6ad
 - ExtraLight: fff4d0
 
+[Brand Guidelines](https://www.figma.com/proto/AHpZECBYgXd3toYc1jC7lE/OpenSSF-Brand-Guidelines?node-id=504-7209&starting-point-node-id=504%3A7209)
+
 #### OpenSSF Technical Initiative Stage Badges
 
 <table>
