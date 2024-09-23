@@ -1,0 +1,1 @@
+This is a collection of artwork for projects supported by OpenSSF.
