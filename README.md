@@ -4,7 +4,7 @@ In this repo, we have artwork in standard formats for the OpenSSF projects and p
 
 With many browsers, you can right click and copy the logo of your choice below. Please note that although PNG is more common, SVG file sizes are smaller, supported in all modern web browsers, and a high-resolution format suitable for both print and high-resolution computer screens.
 
-You can find t-shirts, hoodies and stickers and plushies at <https://store.openssf.org>. 
+You can find t-shirts, hoodies and stickers and plushies at <https://openssf.myspreadshop.com/>. 
 
 #### OpenSSF Logos
 
